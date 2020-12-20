@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4OcbqYQp87W77O14FsVQ1Ye5N9SlBs0Kpd+8QD+CPcsLGA39X7r1QVhLKcagv3YgCwWsF9mQc4hIQn7yA94yQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ugurdal\\Downloads\\netCoreTests\\httpClientSamples\\IHttpClientFactory\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.4\\microsoft.extensions.configuration.binder.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.http\\3.1.4\\microsoft.extensions.http.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.logging\\3.1.4\\microsoft.extensions.logging.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

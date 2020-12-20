@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iH/fZfRggyhgIQirSyxQf0oJOoqDIu7K98sRH1SfnjEJD7QbzM2RKQ2Nozt/16RP4mwRGqEEPXhfX5Jahxhbhw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ugurdal\\Downloads\\netCoreTests\\httpClientSamples\\IHttpClientFactory\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ugurdal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ugurdal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
